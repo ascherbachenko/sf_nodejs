@@ -1,0 +1,22 @@
+{
+  "name": "test_sf",
+  "version": "1.0.0",
+  "description": "hw9.2.7 for skillfactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascherbachenko/sf_nodejs.git"
+  },
+  "author": "ja7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascherbachenko/sf_nodejs/issues"
+  },
+  "homepage": "https://github.com/ascherbachenko/sf_nodejs#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
